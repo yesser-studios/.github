@@ -8,3 +8,5 @@ We publish our games and software to:
 - itch.io: https://yesseruser.itch.io/
 - Microsoft Store: https://apps.microsoft.com/search/publisher?name=Yesser+Studios
 - Roblox: https://www.roblox.com/groups/15396422/Yesser-Studios
+
+Some of our software is also available in Github Releases.
